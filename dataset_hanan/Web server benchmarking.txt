@@ -1,0 +1,1 @@
+Web server benchmarking is the process of estimating a web server performance in order to find if the server can serve sufficiently high workload.

@@ -1,0 +1,1 @@
+Web skimming, formjacking or a magecart attack is an attack where the attacker injects malicious code into a website and extracts data from an HTML form that the user has filled in. That data is then submitted to a server under control of the attacker.

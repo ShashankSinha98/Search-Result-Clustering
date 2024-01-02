@@ -1,0 +1,6 @@
+The term Web service (WS) is either:
+
+a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web, or
+a server running on a computer device, listening for requests at a particular port over a network, serving web documents (HTML, JSON, XML, images).In a Web service a Web technology such as HTTP is used for transferring machine-readable file formats such as XML and JSON.
+In practice, a web service commonly provides an object-oriented Web-based interface to a database server, utilized for example by another Web server, or by a mobile app, that provides a user interface to the end-user. Many organizations that provide data in formatted HTML pages will also provide that data on their server as XML or JSON, often through a Web service to allow syndication, for example, Wikipedia's Export. Another application offered to the end-user may be a mashup, where a Web server consumes several Web services at different machines and compiles the content into one user interface.
+

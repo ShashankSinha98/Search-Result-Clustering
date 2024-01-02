@@ -1,0 +1,4 @@
+A Web Part, also called a Web Widget, is an ASP.NET server control which is added to a Web Part Zone on Web Part Pages by users at run time. The controls enable end users to modify the content, appearance, and behavior of Web pages directly from a browser. It can be put into certain places in a web page by end users, after development by a programmer.
+Web Parts can be used as an add-on ASP.NET technology to Windows SharePoint Services.
+Web Parts are equivalent to Portlets, but don't necessarily require a web portal such as SharePoint to host them.
+

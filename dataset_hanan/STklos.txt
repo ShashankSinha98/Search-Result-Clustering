@@ -1,0 +1,17 @@
+STklos is a Scheme implementation that succeeded STk. It is an interpreter based on an ad hoc virtual machine which aims to be fast as well as light.
+STklos is free software, released under the GNU General Public License.
+In addition to implementing most of R5RS, and a large part of R7RS, STklos supports:
+
+an object system based on CLOS with multiple inheritance, generic functions, multimethods and a MOP
+a module system
+easy connection with the GTK toolkit
+a low-level macro system that compiles macro expanders into bytecode (syntax-rules is also present as a high-level macro system)
+a full Numerical tower implementation, as defined in R7RS
+Unicode support
+Perl compatible regular expressions via PCRE library
+a simple foreign function interface via libffi
+being compiled as a library and embedded in an application
+native threads, using the  libpthread library. The API conforms to SRFI-18
+a number of SRFIs
+easy access to SLIB
+an HTTP clientAdditional libraries are available through its package system ScmPkg.

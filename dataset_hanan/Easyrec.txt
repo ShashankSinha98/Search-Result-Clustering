@@ -1,0 +1,2 @@
+easyrec is an open-source program that provides personalized recommendations using RESTful Web services to be integrated into Web enabled applications. It is distributed under the GNU General Public License by the Studio Smart Agent Technologies and hosted at SourceForge.
+It is written in Java, uses a MySQL database and comes with an administration tool.

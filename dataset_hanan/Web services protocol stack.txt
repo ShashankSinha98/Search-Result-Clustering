@@ -1,0 +1,6 @@
+A web service protocol stack is a protocol stack (a stack of computer networking protocols) that is used to define, locate, implement, and make Web services interact with each other. A web service protocol stack typically stacks four protocols:
+
+(Service) Transport Protocol: responsible for transporting messages between network applications and includes protocols such as HTTP, SMTP, FTP, as well as the more recent Blocks Extensible Exchange Protocol (BEEP).
+(XML) Messaging Protocol: responsible for encoding messages in a common XML format so that they can be understood at either end of a network connection. Currently, this area includes such protocols as XML-RPC, WS-Addressing, and SOAP.
+(Service) Description Protocol: used for describing the public interface to a specific Web service.  The WSDL interface format is typically used for this purpose.
+(Service) Discovery Protocol: centralizes services into a common registry so that network Web services can publish their location and description, and makes it easy to discover what services are available on the network. Universal Description Discovery and Integration (UDDI) was intended for this purpose, but it has not been widely adopted.The protocol stack can also include a range of higher-level protocols such as Business Process Execution Language (WS-BPEL) or WS-Security for security extensions.

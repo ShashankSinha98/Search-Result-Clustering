@@ -1,0 +1,1 @@
+Easyswap is a Switzerland-based on-line local exchange trading system (LETS) platform featuring geolocation data as well as a complementary currency.

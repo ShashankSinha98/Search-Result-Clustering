@@ -1,0 +1,1 @@
+SULFNBK.EXE (short for Setup Utility for Long File Name Backup) is an internal component of the Microsoft Windows operating system (in Windows 98 and Windows ME) for restoring long file names.

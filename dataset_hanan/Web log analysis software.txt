@@ -1,0 +1,2 @@
+Web log analysis software (also called a web log analyzer) is a kind of web analytics software that parses a server log file from a web server, and based on the values contained in the log file, derives indicators about when, how, and by whom a web server is visited. Reports are usually generated immediately, but data extracted from the log files can alternatively be stored in a database, allowing various reports to be generated on demand.
+Features supported by log analysis packages may include "hit filters", which use pattern matching to examine selected log data.
