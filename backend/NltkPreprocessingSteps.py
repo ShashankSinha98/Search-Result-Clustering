@@ -81,50 +81,64 @@ class NltkPreprocessingSteps:
 
 
     def remove_html_tags(self):
+        print("Executing remove_html_tags")
         self.X = self.X.apply(lambda x: BeautifulSoup(x, 'html.parser').get_text())
         return self
     
     def replace_diacritics(self):
+        print("Executing replace_diacritics")
         self.X = self.X.apply(
                 lambda x: unidecode(x, errors="preserve"))
         return self
     
     def to_lower(self):
+        print("Executing to_lower")
         self.X = np.apply_along_axis(lambda x: x.lower(), self.X)
         return self
     
     def expand_contractions(self):
+        print("Executing expand_contractions")
         self.X = self.X.apply(lambda x: " ".join([contractions.fix(expanded_word) 
                             for expanded_word in x.split()]))
         return self
     
     def remove_numbers(self):
+        print("Executing remove_numbers")
         self.X = self.X.apply(lambda x: re.sub(r'\d+', '', x))
         return self
     
     def replace_dots_with_spaces(self):
+        print("Executing replace_dots_with_spaces")
         self.X = self.X.apply(lambda x: re.sub("[.]", " ", x))
         return self
     
     def remove_punctuations_except_periods(self):
+        print("Executing remove_punctuations_except_periods")
         self.X = self.X.apply(lambda x: re.sub('[%s]' %
                     re.escape(self.remove_punctuations), '' , x))
         return self
     
     def remove_all_punctuations(self):
+        print("Executing remove_all_punctuations")
         self.X = self.X.apply(lambda x: re.sub('[%s]' %
                             re.escape(string.punctuation), '' , x))
         return self
     
     def remove_double_spaces(self):
+        print("Executing remove_double_spaces")
         self.X = self.X.apply(lambda x: re.sub(' +', ' ', x))
         return self
 
     def fix_typos(self):
-        self.X = self.X.apply(lambda x: str(TextBlob(x).correct()))
+        print("Executing fix_typos")
+        # self.X = self.X.apply(lambda x: str(TextBlob(x).correct()))
+        for i in range(len(self.X)):
+           print(f">> {(i+1)}/{len(self.X)}")
+           self.X[i] = str(TextBlob(self.X[i]).correct())
         return self
 
     def remove_stopwords(self):
+        print("Executing remove_stopwords")
         # remove stop words from token list in each column
         self.X = self.X.apply(
             lambda x: " ".join([ word for word in x.split() 
@@ -132,6 +146,7 @@ class NltkPreprocessingSteps:
         return self
 
     def lemmatize(self):
+        print("Executing lemmatize")
         lemmatizer = WordNetLemmatizer()
         self.X = self.X.apply(lambda x: lemmatize_pos_tagged_text(
                                 x, lemmatizer, self.pos_tag_dict))
