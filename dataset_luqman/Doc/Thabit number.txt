@@ -1,0 +1,21 @@
+In number theory, a Thabit number, Thâbit ibn Qurra number, or 321 number is an integer of the form 
+  
+    
+      
+        3
+        ⋅
+        
+          2
+          
+            n
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle 3\cdot 2^{n}-1}
+   for a non-negative integer n.
+The first few Thabit numbers are:
+
+2, 5, 11, 23, 47, 95, 191, 383, 767, 1535, 3071, 6143, 12287, 24575, 49151, 98303, 196607, 393215, 786431, 1572863, ... (sequence A055010 in the OEIS)The 9th century mathematician, physician, astronomer and translator Thābit ibn Qurra is credited as the first to study these numbers and their relation to amicable numbers.

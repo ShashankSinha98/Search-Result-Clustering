@@ -1,0 +1,5 @@
+Extended BIOS may refer to:
+
+XIOS, the extended BIOS in Digital Research's MP/M, Concurrent CP/M, Concurrent DOS, Multiuser DOS and REAL/32 (since 1979)
+XBIOS, the extended BIOS in Atari TOS-based computers (since 1984/1985)
+EX-BIOS, non-standard BIOS extensions in the HP Vectra series of computers (since 1985)

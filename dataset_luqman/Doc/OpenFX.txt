@@ -1,0 +1,4 @@
+OpenFX may refer to:
+
+OpenFX (software) Open-source 3D modeling and animation software
+OpenFX (API) Open-source 2D image effects plugin API

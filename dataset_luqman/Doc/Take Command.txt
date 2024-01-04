@@ -1,0 +1,5 @@
+Take Command may refer to:
+
+Take Command (command line interpreter), a cmd.exe replacement by JP Software
+Take Command Console, a later version of the command line interpreter
+Take Command (computer game), a 2006 computer game by MadMinute Games

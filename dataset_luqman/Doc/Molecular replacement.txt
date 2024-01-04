@@ -1,0 +1,108 @@
+Molecular replacement (or MR) is a method of solving the phase problem in X-ray crystallography. MR relies upon the existence of a previously solved protein structure which is similar to our unknown structure from which the diffraction data is derived. This could come from a homologous protein, or from the lower-resolution protein NMR structure of the same protein.The first goal of the crystallographer is to obtain an electron density map, density being related with diffracted wave as follows:
+
+  
+    
+      
+        ρ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        
+          
+            1
+            V
+          
+        
+        
+          ∑
+          
+            h
+          
+        
+        
+          ∑
+          
+            k
+          
+        
+        
+          ∑
+          
+            l
+          
+        
+        
+          |
+        
+        
+          F
+          
+            h
+            k
+            l
+          
+        
+        
+          |
+        
+        exp
+        ⁡
+        (
+        2
+        π
+        i
+        (
+        h
+        x
+        +
+        k
+        y
+        +
+        l
+        z
+        )
+        +
+        i
+        Φ
+        (
+        h
+        k
+        l
+        )
+        )
+        .
+      
+    
+    {\displaystyle \rho (x,y,z)={\frac {1}{V}}\sum _{h}\sum _{k}\sum _{l}|F_{hkl}|\exp(2\pi i(hx+ky+lz)+i\Phi (hkl)).}
+  
+With usual detectors the intensity 
+  
+    
+      
+        I
+        =
+        F
+        ⋅
+        
+          F
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle I=F\cdot F^{*}}
+   is being measured, and all the information about phase (
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  ) is lost. Then, in the absence of phases (Φ), we are unable to complete the shown Fourier transform relating the experimental data from X-ray crystallography (in reciprocal space) to real-space electron density, into which the atomic model is built. MR tries to find the model which fits best experimental intensities among known structures.

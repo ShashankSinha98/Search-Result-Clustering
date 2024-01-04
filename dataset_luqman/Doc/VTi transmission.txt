@@ -1,0 +1,10 @@
+The VTi is a continuously variable transmission for automobiles. It is fully-automatic, electronically-controlled, and designed for transverse front-wheel-drive use. The VTi is assembled at a General Motors/Fiat joint venture plant in Szentgotthárd, Hungary.
+Quality issues delayed the introduction of the VTi until the second quarter of 2002. Production ended in 2005.
+The VTi can handle a maximum of 200 N·m (147 ft·lbf) of torque for vehicles weighing up to 2100 kg (4630 lb), with gear ranges from 2.61 to 0.44. A 2.15 reverse gear is also specified. The effective final drive ratio is 4.35.
+It uses two sets of 12 steel bands (Van Doorne belts) inside a die-cast aluminum casing. GM claims that the CVT's bands, normally a weak spot in CVTs, are reliable for at least 100,000 miles (161,000 km). A 225 mm (8.9 in) torque converter is also used.
+In 2004 GM extended the transmission's warranty on all 2002–2005 GM vehicles with the VTi to 5 years / 75,000 miles (120,700 km) due to high failure rates.
+Applications:
+
+2002–2005 Saturn Vue (GMT315)
+2003–2004 Saturn Ion Quad Coupe
+2002–2004 Opel Vectra C (under the name CVTronic)
