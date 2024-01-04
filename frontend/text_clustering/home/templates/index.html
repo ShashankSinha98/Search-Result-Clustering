@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'index.css' %}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/f0484b1ee8.js" crossorigin="anonymous" defer></script>
+
+</head>
+<body>
+    <div class="split left">
+        <div class="main-title-text-container">
+            <p class="main-title-text">Information Retrival : P05</p>
+        </div>
+        <div class="topic-title-text-container">
+            <p class="topic-title-text">Usecase 1: Search Result Clustering</p>
+        </div>
+    </div>
+
+
+    <div class="split right">
+        <div class="centered">
+            <p class="search-title">GO AHEAD, AND SEARCH</p>
+            <form method="post" action="{% url 'reults' %}">
+                {% csrf_token %}
+                <input class="search-box" type="text" placeholder="Search Your Query">
+                <div class="search-icon">
+                    <button class="button-style" type="submit"><i class="search-icon fa-solid fa-magnifying-glass fa-2x"></i></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
