@@ -41,3 +41,4 @@ for i, idx in enumerate(top_indices, 1):
     print(f"{i}. Document #{idx + 1} - Similarity: {cosine_similarities[idx]:.4f}")
     print(df['text'][idx])
     print("-" * 30)
+
