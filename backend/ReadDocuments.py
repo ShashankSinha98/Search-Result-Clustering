@@ -18,7 +18,10 @@ if __name__ == "__main__":
                     else:
                         print(f"{doc} is empty, not added in dataset")
         
+        doc_ids = [i for i in range(1, len(documents)+1)]
+
         input_df = pd.DataFrame({
+            "doc_id": doc_ids,
             "filenames" : document_names,
             "text": documents
         })
