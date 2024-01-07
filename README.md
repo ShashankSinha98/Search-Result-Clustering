@@ -8,3 +8,5 @@
 ## Document Clustering
 
 - This is common application of clustering. Let’s say you have multiple documents and you need to cluster similar documents together. Clustering helps us group these documents such that similar documents are in the same clusters.
+
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
