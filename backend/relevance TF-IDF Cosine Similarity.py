@@ -58,7 +58,7 @@ for i in range(tfidf_matrix.shape[0]-1):
 res.sort(key=lambda r: r[0], reverse=True)
 print("Query: ",query, end="\n\n")
 
-display_res_limit = 10 if len(res) > 10 else len(res)
+display_res_limit = 50 if len(res) > 10 else len(res)
 
 for x in range(display_res_limit):
     print("Rank",(x+1))
