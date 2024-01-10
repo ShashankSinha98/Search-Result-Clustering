@@ -1,0 +1,6 @@
+Easytronic is the Opel tradename for a type of transaxle-based  automated manual transmission or gearbox, as used in some Opel/Vauxhall cars.
+Easytronic is not a tiptronic gearbox design; it does not have a torque converter. It is fundamentally a conventional manual transmission, with a single-plate dry clutch. The transmission is controlled by an electronic control unit (ECU).
+The Easytronic is generally used in smaller modern front-wheel drive cars, including the Corsa 1.0 & 1.2 & 1.3D, Tigra 1.4 90 ps, Meriva 1.6 & 1.8, Astra 1.4 & 1.6, Zafira 1.8 140 ps and Vectra/Signum 1.8 140 ps.
+The Easytronic transmission is manufactured for Adam Opel AG by ZF Friedrichshafen AG.The Easytronic system allows for a computer to assume control of the manual gearbox and clutch via electromechanical means. As of Easytronic 3.0, the gearbox can be operated in either fully-automatic or sequential semi-automatic mode. In the former, the car behaves much like a traditional automatic transmission, selecting gears with no driver input; in the latter, the gears can be selected sequentially (using the gear select lever) by the driver. It also offers a traditional automatic-like 'creep' mode for low-speed maneuvering.
+Opel's Easytronic is advertised as a low-cost alternative to a traditional automatic transmission for city drivers.
+

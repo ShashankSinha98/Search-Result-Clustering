@@ -1,0 +1,3 @@
+Stackable Unified Module Interconnect Technology (SUMIT) is a connector between expansion buses independent of motherboard form factor. Boards featuring SUMIT connectors are usually used in "stacks" where one board sits on top of another.
+It was published by the Small Form Factor Special Interest Group.
+

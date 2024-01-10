@@ -1,0 +1,4 @@
+Random serial dictatorship, also called random priority, can refer to:
+
+A general rule for social choice - a variant of the dictatorship mechanism.
+A specific rule for item allocation - see random priority item allocation.

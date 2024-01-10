@@ -1,0 +1,26 @@
+Hysteretic models are mathematical models capable of simulating the complex nonlinear behavior characterizing mechanical systems and materials used in different fields of engineering, such as aerospace, civil, and mechanical engineering. Some examples of mechanical systems and materials having hysteretic behavior are:
+
+materials, such as steel, reinforced concrete, wood;
+structural elements, such as steel, reinforced concrete, or wood joints;
+devices, such as seismic isolators and dampers.Hysteretic models may have a generalized displacement 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   as input variable and a generalized force 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   as output variable, or vice versa. In particular, in rate-independent hysteretic models, the output variable does not depend on the rate of variation of the input one.Rate-independent hysteretic models can be classified into four different categories depending on the type of equation that needs to be solved to compute the output variable:
+
+Algebraic models;
+Transcendental models;
+Differential models;
+Integral models.

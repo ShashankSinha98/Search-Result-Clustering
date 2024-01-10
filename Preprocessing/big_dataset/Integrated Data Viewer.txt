@@ -1,0 +1,4 @@
+The Integrated Data Viewer (IDV) from Unidata/UCAR is a Java based software framework for analyzing and visualizing geoscience data. The IDV release includes a software library and a reference application made from that software. It uses the VisAD library and other Java-based utility packages.
+The IDV is developed at the Unidata Program Center (UPC), part of the 
+University Corporation for Atmospheric Research, Boulder, Colorado  
+which is funded by the National Science Foundation. The software is freely available under the terms of the GNU Lesser General Public License.

@@ -1,0 +1,1 @@
+In computing, SUBST is a command on the DOS, IBM OS/2, Microsoft Windows and ReactOS operating systems used for substituting paths on physical and logical drives as virtual drives.

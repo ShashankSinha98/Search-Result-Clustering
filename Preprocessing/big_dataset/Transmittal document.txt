@@ -1,0 +1,11 @@
+A transmittal document is a "packing slip" for a document or collection of documents that are transferred from one company to another. The transmittal might be just the front page in an extensive document. But more often it is a separate document file that contains details of the documents that are sent. The transmittal also contains specific (company or project-related) details to help further processing of the documents for the recipient.
+The content of the transmittal document depends on the situation. Some typical content in a transmittal can be:
+
+Date of the sending.
+Name details of sender/company and recipient/company.
+Project name, number(s), and other references to the project.
+Reason(s) for sending.
+Deadline(s) and/or descriptions of actions to be taken by recipient.
+Other status details.
+List of files sent: file name, size, type, revision number and other relevant metadata.
+Limitations, security measures or other dependencies of the document transmittal.Transmittals are used in engineering and construction companies as a necessary tool in projects where a large number of documents are involved. Several document handling systems have functions for generating transmittal document along with packages of document for transfer.

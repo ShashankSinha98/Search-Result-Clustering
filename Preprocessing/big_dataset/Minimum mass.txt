@@ -1,0 +1,35 @@
+In astronomy, minimum mass is the lower-bound calculated mass of observed objects such as planets, stars and binary systems, nebulae, and black holes.
+Minimum mass is a widely cited statistic for extrasolar planets detected by the radial velocity method or Doppler spectroscopy, and is determined using the binary mass function. This method reveals planets by measuring changes in the movement of stars in the line-of-sight, so the real orbital inclinations and true masses of the planets are generally unknown.  This is a result of sin i degeneracy.
+If inclination i can be determined, the true mass can be obtained from the calculated minimum mass using the following relationship:
+
+  
+    
+      
+        
+          M
+          
+            true
+          
+        
+        =
+        
+          
+            
+              M
+              
+                min
+              
+            
+            
+              sin
+              ⁡
+              i
+            
+          
+        
+        
+      
+    
+    {\displaystyle M_{\text{true}}={\frac {M_{\min }}{\sin i}}\,}
+  
+

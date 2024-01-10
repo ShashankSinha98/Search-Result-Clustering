@@ -1,0 +1,1 @@
+SUDAAN is a proprietary statistical software package for the analysis of correlated data, including correlated data encountered in complex sample surveys.  SUDAAN originated in 1972 at RTI International (the trade name of Research Triangle Institute). Individual commercial licenses are sold for $1,460 a year, or $3,450 permanently.

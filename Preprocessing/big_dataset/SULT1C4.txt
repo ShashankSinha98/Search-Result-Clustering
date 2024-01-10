@@ -1,0 +1,2 @@
+Sulfotransferase 1C4 is an enzyme that in humans is encoded by the SULT1C4 gene.Sulfotransferase enzymes catalyze the sulfate conjugation of many hormones, neurotransmitters, drugs, and xenobiotic compounds. These cytosolic enzymes are different in their tissue distributions and substrate specificities. 
+The gene structure (number and length of exons) is similar among family members. This gene encodes a protein that belongs to the SULT1 subfamily, responsible for transferring a sulfo moiety from PAPS to phenol-containing compounds.
