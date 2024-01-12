@@ -15,5 +15,10 @@
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/LD/guava-18.0.jar"/>
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/LD/jsonic-1.2.11.jar"/>
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/LD/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-queries-9.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-queryparser-9.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-sandbox-9.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-3.5.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

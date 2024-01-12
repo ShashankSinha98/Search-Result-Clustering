@@ -5,31 +5,34 @@ import java.util.List;
 import com.google.gson.Gson;
 
 public class ReadDocuments {
-
-	public static void convertTextDocumentsToJson() throws IOException {
-
+	
+	
+	public static List<Doc> getDocuments() {
 		File folder = new File(Constants.datasetFolderPath);
-		List<Document> documents = new ArrayList<>();
+		List<Doc> documents = new ArrayList<>();
 		
         File[] files = folder.listFiles(txtFileFilter);
         int count = 0;
 		 if (files != null) { 
 			 for (int i=0; i<files.length; i++) {
 				 if(i%100==0) {
-					 System.out.println("Processing "+i+" file");
+					 System.out.println("Reading "+i+" file");
 				 }
 				 File file = files[i];
-				 String content = processFile(file);
+				 String content = readFile(file);
 				 if(content==null || content.length()==0)
 					 continue;
 				 
 				 int docId = count++;
 				 String fileName = file.getName();
-				 Document doc = new Document(docId, fileName, content);
+				 Doc doc = new Doc(docId, fileName, content);
 				 documents.add(doc);
 			 } 
-		 }
-		 
+		 }		
+		return documents;
+	}
+
+	public static void convertTextDocumentsToJson(List<Doc> documents) throws IOException {
 		// Convert to Json
 		Gson gson = new Gson();
 		String docJsonStr = gson.toJson(documents);
@@ -52,7 +55,7 @@ public class ReadDocuments {
     };
 	
 	
-    private static String processFile(File file) {
+    private static String readFile(File file) {
         try {
             // Read the file
             StringBuilder content = new StringBuilder();

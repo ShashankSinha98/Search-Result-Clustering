@@ -12,38 +12,36 @@ import  java.lang.reflect.Type;
 public class PreprocessingMain {
 
 	private static Gson gson = new Gson();
-	private static List<Document> documents;
-	private static List<Document> preprocessedDocuments;
-	
-	private static CustomAnalyzer analyzer;
+	private static List<Doc> documents;
+	private static List<Doc> preprocessedDocuments;
 	
 	public static void main(String[] args) throws IOException {
 		File originalDocJson = new File(Constants.originalDocFilePath);
 		
 		// If original docs json doesn't exist - create one
 		if(!originalDocJson.exists()) {
-			ReadDocuments.convertTextDocumentsToJson();
+			List<Doc> documents = ReadDocuments.getDocuments();
+			ReadDocuments.convertTextDocumentsToJson(documents);
 		}
 		
 		
 		// read json and save docs in list
 		Reader reader = new FileReader(Constants.originalDocFilePath);
-		Type listType = new TypeToken<List<Document>>(){}.getType();
+		Type listType = new TypeToken<List<Doc>>(){}.getType();
         documents = gson.fromJson(reader, listType);
         
         
         // preprocess docs and save result
         preprocessedDocuments = new ArrayList<>();
-        analyzer = new CustomAnalyzer();
         
         if(documents!=null && documents.size() > 0) {
         	for(int i=0; i<documents.size(); i++) {
         		if(i%100==0) {
         			System.out.println(i+"/"+documents.size()+" docs processed...");
         		}
-        		Document doc = documents.get(i);
-        		List<String> tokens = analyzer.applyTokenization(doc.getContent());
-        		Document processedDoc = new Document(
+        		Doc doc = documents.get(i);
+        		List<String> tokens = DocumentPreprocessor.preprocess(doc.getContent());
+        		Doc processedDoc = new Doc(
         				doc.getDocId(), doc.getFileName(), 
         				Utils.concat(tokens, " "));
         		

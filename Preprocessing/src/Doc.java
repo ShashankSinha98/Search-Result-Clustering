@@ -1,12 +1,12 @@
 
-public class Document {
+public class Doc {
 	
 	private int docId = -1;
 	private String docName;
 	private String content;
 	
 	
-	public Document(int docId, String fileName, String content) {
+	public Doc(int docId, String fileName, String content) {
 		this.docId = docId;
 		this.docName = fileName;
 		this.content = content;

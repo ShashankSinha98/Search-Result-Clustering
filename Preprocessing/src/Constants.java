@@ -10,4 +10,5 @@ public class Constants {
 	public static final String originalDocFilePath = Utils.concat(CWD, "\\", ORIGINAL_DOC_JSON_FILE);
 	public static final String processedDocFilePath = Utils.concat(CWD, "\\", PROCESSED_DOC_JSON_FILE);
 	
+	public static final int RELEVANT_DOCS_LIMIT = 100;
 }
