@@ -24,6 +24,7 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.similarities.BM25Similarity;
 
 public class QueryDocuments {
 	
@@ -83,6 +84,9 @@ public class QueryDocuments {
 		    Directory directory = new ByteBuffersDirectory();
 		    StandardAnalyzer analyzer = new StandardAnalyzer();
 		    IndexWriterConfig config = new IndexWriterConfig(analyzer);
+		    
+		    config.setSimilarity(new BM25Similarity());
+		    
 		    IndexWriter indexWriter = new IndexWriter(directory, config);
 	
 		    for (String text : documents) {

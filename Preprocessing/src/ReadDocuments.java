@@ -13,11 +13,9 @@ public class ReadDocuments {
 		
         File[] files = folder.listFiles(txtFileFilter);
         int count = 0;
-		 if (files != null) { 
+		 if (files != null) {
+			 System.out.println("Reading "+files.length+" documents, please wait!");
 			 for (int i=0; i<files.length; i++) {
-				 if(i%100==0) {
-					 System.out.println("Reading "+i+" file");
-				 }
 				 File file = files[i];
 				 String content = readFile(file);
 				 if(content==null || content.length()==0)
