@@ -8,7 +8,7 @@ print("FP: ",file_path)
 
 
 jnius_config.set_classpath(file_path)
-jnius_config.add_classpath("E:\Code\OvGU\Information Retrieval\Search Result Clustering\Preprocessing\qdocs_lib\*")
+#jnius_config.add_classpath("E:\Code\OvGU\Information Retrieval\Search Result Clustering\Preprocessing\qdocs_lib\*")
 
 from jnius import autoclass
 
