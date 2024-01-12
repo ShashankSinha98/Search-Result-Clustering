@@ -1,6 +1,7 @@
 # Import all libs
 import os
 import json
+from typing import Any
 import jnius_config
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -8,20 +9,6 @@ from sklearn.cluster import KMeans
 import math
 import numpy as np
 from dataclasses import dataclass
-
-
-
-@dataclass
-class Doc:
-    doc_id: int
-    file_name: str
-    content: str
-
-@dataclass
-class Cluster:
-    label: str
-    size: int
-    documents: list[Doc]
 
 
 docs_query_jar_file = "qdocs.jar"
@@ -40,9 +27,6 @@ DocumentPreprocessor = autoclass("DocumentPreprocessor")
 qDoc = QueryDocuments()
 docPreprocessor = DocumentPreprocessor()
 
-res = docPreprocessor.preprocess("This is a test sentence with a the stopwords.!!??")
-res_l = [r for r in res]
-
 def concat(tokens, divider = " "):
     res = ""
     for ti in tokens:
@@ -52,6 +36,7 @@ def concat(tokens, divider = " "):
 
 query = input("Enter Query: ")
 no_of_results = int(input("No of results expected: "))
+
 json_result = qDoc.query(query, no_of_results)
 result = json.loads(json_result)
 
@@ -90,11 +75,12 @@ final_cluster_res = {}
 for cluster_i in range(K):
     docs = []
     fil_df = df[df["cluster"] == cluster_i]
-    size = fil_df.shape[0]
-    label = str(cluster_i)
+    cluster_size = fil_df.shape[0]
+    cluster_label = str(cluster_i)
 
     # iterate through docs belonging to cluster i
     for index in fil_df.index:
+        
         doc_dict = {
             "doc_id" : int(fil_df["docId"][index]),
             "name" : fil_df["docName"][index],
@@ -104,14 +90,14 @@ for cluster_i in range(K):
         print(type(fil_df["docId"][index]), type(fil_df["docName"][index]), type(fil_df["content"][index]))
 
         docs.append(doc_dict)
-    
+
     res = {
-        "label": label,
-        "size": size,
+        "label": cluster_label,
+        "size": cluster_size,
         "documents": docs
     }
 
-    print(type(label), type(size), type(docs))
+    print(type(cluster_label), type(cluster_size), type(docs))
 
     final_cluster_res[cluster_i] = res
 
