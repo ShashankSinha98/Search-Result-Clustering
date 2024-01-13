@@ -29,6 +29,17 @@ public class ReadDocuments {
 		 }		
 		return documents;
 	}
+	
+	public static List<Doc> getDummyDocuments() {
+		String[] dummyDocs = Constants.dummyDocs;
+		List<Doc> docs = new ArrayList<>();
+		for(int i=0; i<dummyDocs.length; i++) {
+			Doc d = new Doc(i, String.valueOf(i), dummyDocs[i]);
+			docs.add(d);
+		}
+		
+		return docs;
+	}
 
 	public static void convertTextDocumentsToJson(List<Doc> documents) throws IOException {
 		// Convert to Json

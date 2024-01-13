@@ -34,7 +34,7 @@ class CustomAnalyzer extends Analyzer {
 		Set<?> stopWordsSet = EnglishAnalyzer.ENGLISH_STOP_WORDS_SET;
         CharArraySet stopWords = new CharArraySet(stopWordsSet, true);
         result = new StopFilter(result, stopWords); // StopwordFilter
-        //result = new PorterStemFilter(result); // PorterStemmerFilter
+        result = new PorterStemFilter(result); // PorterStemmerFilter
 
         return new TokenStreamComponents(source, result);
 	}

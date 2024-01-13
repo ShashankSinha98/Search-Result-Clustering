@@ -1,133 +1,281 @@
 [
     {
-        "label": "0",
-        "size": 2,
+        "label": "Cluster: 1",
+        "size": 6,
         "documents": [
             {
-                "doc_id": 1459,
-                "name": "Rishi Patialvi.txt",
-                "content": "Rishi Patialvi (Urdu: \u0631\u0650\u0634\u06cc \u067e\u0679\u06cc\u0627\u0644\u0648\u06cc), \r\n(1917\u20131999), born Bam Dev Sharma, hailing from Hoshiarpur District (Punjab), was a popular Urdu poet belonging to Daagh Dehlvi\u2019s lineage. He was a disciple of Naseem Noormahali who was a disciple of Labhu Ram Josh Malsiyani (1883-1976), a disciple of Mirza Khan Daagh Dehlvi. He died of a massive heart-attack on 26 December 1999 at Mumbai aged 82 years.\r\n\r\nFive collections of his poems were published during the life-time of Rishi Patialvi, which are:-\r\n\r\n1.Reg-e-Rawaan (1972) published by Biswin Sadi, New Delhi 184 pages\r\n2.Phool Unki Mukaanon Ke (1978) published by Punjab Urdu Academy, Chandigarh 136 pages.\r\n3.Roshni Kitni (1979) published by Rishi Publishing House, New Delhi 196 pages.\r\n4.Chhir Gaii Jo Baat Unki (1980) \u2013do- 152 pages\r\n5.Shafaq Rang Aansoo (1981) published by Nao bahaar Saabir, Patiala 328 pagesHis other works which are in Urdu prose include Riaz-e-Naseem (1978), Jaize (1966) and Partav-e-Jamhoor (1976).\r\n"
+                "doc_id": 1460,
+                "name": "Rishi Pillai.txt",
+                "content": "Rishi Pillai (born 26 August 1981) is a German cricketer. He was named as the captain of Germany's squad for the 2017 ICC World Cricket League Division Five tournament in South Africa. He played in Germany's opening fixture, against Ghana, on 3 September 2017. He scored the most runs for Germany in the tournament, with a total of 212 runs in five matches.He made his Twenty20 International (T20I) debut for Germany against Italy, during their two-match series in the Netherlands, on 25 May 2019. The same month, he was named in Germany's squad for the Regional Finals of the 2018\u201319 ICC T20 World Cup Europe Qualifier tournament in Guernsey.\r\n"
             },
             {
-                "doc_id": 1459,
-                "name": "Rishi Patialvi.txt",
-                "content": "Rishi Patialvi (Urdu: \u0631\u0650\u0634\u06cc \u067e\u0679\u06cc\u0627\u0644\u0648\u06cc), \r\n(1917\u20131999), born Bam Dev Sharma, hailing from Hoshiarpur District (Punjab), was a popular Urdu poet belonging to Daagh Dehlvi\u2019s lineage. He was a disciple of Naseem Noormahali who was a disciple of Labhu Ram Josh Malsiyani (1883-1976), a disciple of Mirza Khan Daagh Dehlvi. He died of a massive heart-attack on 26 December 1999 at Mumbai aged 82 years.\r\n\r\nFive collections of his poems were published during the life-time of Rishi Patialvi, which are:-\r\n\r\n1.Reg-e-Rawaan (1972) published by Biswin Sadi, New Delhi 184 pages\r\n2.Phool Unki Mukaanon Ke (1978) published by Punjab Urdu Academy, Chandigarh 136 pages.\r\n3.Roshni Kitni (1979) published by Rishi Publishing House, New Delhi 196 pages.\r\n4.Chhir Gaii Jo Baat Unki (1980) \u2013do- 152 pages\r\n5.Shafaq Rang Aansoo (1981) published by Nao bahaar Saabir, Patiala 328 pagesHis other works which are in Urdu prose include Riaz-e-Naseem (1978), Jaize (1966) and Partav-e-Jamhoor (1976).\r\n"
+                "doc_id": 580,
+                "name": "Grigol Bediashvili.txt",
+                "content": "Grigol Bediashvili (Georgian: \u10d2\u10e0\u10d8\u10d2\u10dd\u10da \u10d1\u10d4\u10d3\u10d8\u10d0\u10e8\u10d5\u10d8\u10da\u10d8; born on 7 February 1980) is a Georgian footballer (goalkeeper) playing currently for FC Metalurgi Rustavi.\r\nBediashvili played for FC WIT Georgia in the first round of the 2005 UEFA Intertoto Cup, the qualifying rounds of the 2006\u201307 UEFA Cup,He made his Georgia debut on 10 June 2009 against Albania.\r\n"
+            },
+            {
+                "doc_id": 1934,
+                "name": "YelloPark.txt",
+                "content": "YelloPark was a proposed football stadium planned to be built in Nantes, France. It was expected to serve as the stadium of FC Nantes and as a football venue for the 2024 Summer Olympic Games in Paris and the 2023 Rugby World Cup. The stadium would have had a capacity of 40,000 and its construction was projected to take place between 2019 and 2022. It was to be built near the Stade de la Beaujoire that it was planned eventually to replace.\r\nIn a vote on 7 December 2018, Nantes Metropolitan Council agreed to discuss the sale of land critical to the proposed YelloPark project. Councillors also voted for the renovation of the Stade de la Beaujoire. However, after deliberations on 19 February 2019, the Council voted against selling the land needed to develop the project. On 26 February 2019, the project was subsequently cancelled.\r\n"
+            },
+            {
+                "doc_id": 1844,
+                "name": "Wales Open.txt",
+                "content": "The Wales Open is a professional golf tournament on the European Tour played at the Celtic Manor Resort. It was played annually from 2000 to 2014, as part of a 15-year deal between the tour and the Celtic Manor Resort, that included staging the 2010 Ryder Cup. The event was not held from 2015 to 2019 but returned in 2020, following a revamp of the European Tour because of the COVID-19 pandemic.\r\n\r\n"
+            },
+            {
+                "doc_id": 1557,
+                "name": "Seif Khalifa.txt",
+                "content": "Seif Khalifa (born 23 February 1988) is a Tanzanian cricketer. He played in the 2014 ICC World Cricket League Division Five tournament.\r\n"
+            },
+            {
+                "doc_id": 1458,
+                "name": "Rishi Patel.txt",
+                "content": "Rishi Ketan Patel (born 26 July 1998) is an English cricketer. He has played for Essex's Second XI side, and signed a professional contract with Essex in 2018. He made his first-class debut on 26 March 2019, for Cambridge MCCU against Essex, as part of the Marylebone Cricket Club University fixtures. He made his List A debut on 28 April 2019, for Essex in the 2019 Royal London One-Day Cup. In October 2020, he was signed by Leicestershire County Cricket Club on a three-year deal. Patel made his Twenty20 debut on 10 June 2021, for Leicestershire in the 2021 T20 Blast.\r\n"
             }
         ]
     },
     {
-        "label": "1",
-        "size": 4,
+        "label": "Cluster: 2",
+        "size": 5,
         "documents": [
             {
-                "doc_id": 1756,
-                "name": "Trollh\u00e4ttan school attack.txt",
-                "content": "On 22 October 2015, 21-year-old Anton Lundin Pettersson attacked Kronan School in Trollh\u00e4ttan, Sweden, with a sword. He killed a teaching assistant and a male student, stabbed another male student and a teacher, and died later of the gunshot wounds he received during his apprehension. The second teacher who was wounded died in the hospital six weeks after the attack, on 3 December.\r\nIt was Sweden's first deadly attack on a school since the 1961 Kung\u00e4lv school shooting when one person was killed and six injured. It is also the deadliest attack on a school in Swedish history. The initial police investigation concluded that Pettersson was motivated by racism and had chosen the school as his target due to its location in a neighbourhood with a high immigrant population.\r\n"
+                "doc_id": 1070,
+                "name": "Motu Matu_u.txt",
+                "content": "Motu Matu'u (born 30 April 1987) is a rugby union footballer who plays as a hooker for London Irish in Premiership Rugby. He previously played for Wellington Lions in the ITM Cup and for the Hurricanes in the Super Rugby. He attended Rongotai College in Wellington, which was also attended by Ma'a Nonu.\r\nHe is 184 cm tall and weighs 108 kg.Matu'u is internationally capped by Samoa, of which his debut came of the bench against the United States during the 2015 World Rugby Pacific Nations Cup. He represented Samoa in the 2015 Rugby World Cup, and on 23 August 2019, he was named in Samoa's 34-man training squad for the 2019 Rugby World Cup, before being named in the final 31 on 31 August.On 17 March 2016, Matu'u signed for English club Gloucester Rugby in the Aviva Premiership on a long-term deal from the 2016-17 season. On 24 May 2018, Matu'u left Gloucester to join London Irish from their return in the RFU Championship.\r\n"
             },
             {
-                "doc_id": 680,
-                "name": "Jaroslav Kubera.txt",
-                "content": "Jaroslav Kubera (16 February 1947 \u2013 20 January 2020) was a Czech politician for the Civic Democratic Party, who served in the Czech Senate representing Teplice from 2000 and the Senate President from 2018 until his death in 2020. He previously served as mayor of Teplice from 1994 to 2018.\r\nKubera was a potential candidate in the 2018 presidential election, gathering enough support from fellow senators to register his candidacy, before deciding not to run.\r\nHe died on 20 January 2020 after suffering a heart attack, becoming the first high-ranking Czech official to die in office.\r\n"
+                "doc_id": 979,
+                "name": "Michelle Heyman.txt",
+                "content": "Michelle Pearl Heyman (born 4 July 1988) is an Australian soccer player and commentator who currently plays for Canberra United in the W-League in Australia. She became the all-time record goalscorer in the W-League in March 2021, after scoring her 73rd goal. She has previously played for W-League teams Central Coast Mariners, Sydney FC, and Adelaide United as well as the Western New York Flash in the American National Women's Soccer League. Heyman has  represented Australia since 2010, playing at the 2014 AFC Women's Asian Cup, the 2015 FIFA Women's World Cup and the 2016 Summer Olympics. In May 2019 she retired from international football.\r\n"
             },
             {
-                "doc_id": 1756,
-                "name": "Trollh\u00e4ttan school attack.txt",
-                "content": "On 22 October 2015, 21-year-old Anton Lundin Pettersson attacked Kronan School in Trollh\u00e4ttan, Sweden, with a sword. He killed a teaching assistant and a male student, stabbed another male student and a teacher, and died later of the gunshot wounds he received during his apprehension. The second teacher who was wounded died in the hospital six weeks after the attack, on 3 December.\r\nIt was Sweden's first deadly attack on a school since the 1961 Kung\u00e4lv school shooting when one person was killed and six injured. It is also the deadliest attack on a school in Swedish history. The initial police investigation concluded that Pettersson was motivated by racism and had chosen the school as his target due to its location in a neighbourhood with a high immigrant population.\r\n"
+                "doc_id": 859,
+                "name": "Mal Connor.txt",
+                "content": "Mal Connor is an Australian former professional rugby league footballer in the New South Wales Rugby League (NSWRL) premiership.\r\nConnor played for the Eastern Suburbs club in the years 1976 and 1977 as well as 1979 to 1980. A hooker, Connor played in the Easts side that defeated St George Dragons in the final of the 1977 mid-week cup competition.\r\n"
             },
             {
-                "doc_id": 680,
-                "name": "Jaroslav Kubera.txt",
-                "content": "Jaroslav Kubera (16 February 1947 \u2013 20 January 2020) was a Czech politician for the Civic Democratic Party, who served in the Czech Senate representing Teplice from 2000 and the Senate President from 2018 until his death in 2020. He previously served as mayor of Teplice from 1994 to 2018.\r\nKubera was a potential candidate in the 2018 presidential election, gathering enough support from fellow senators to register his candidacy, before deciding not to run.\r\nHe died on 20 January 2020 after suffering a heart attack, becoming the first high-ranking Czech official to die in office.\r\n"
+                "doc_id": 842,
+                "name": "Lote Tuqiri.txt",
+                "content": "Lote Daulako Tuqiri (born 23 September 1979) is a former professional dual-code rugby footballer who primarily played as a winger across both codes. He represented Australia in both rugby league and rugby union, and Fiji in rugby league. Tuqiri first rose to prominence as a professional rugby league footballer for the Brisbane Broncos and Queensland Maroons, as well as the Fiji and Australia national sides. He was therefore a high-profile signing for rugby union in 2002, winning 67 caps for Australia and being a part of their 2003 and 2007 World Cup squads. He played rugby union for the Waratahs in the Super 14 and Leicester Tigers in England in season 2009\u201310. Tuqiri's contract with the Australian Rugby Union was terminated on 1 July 2009. No immediate reason was given, and Tuqiri returned to rugby league in 2010, playing for the Wests Tigers of the NRL. In September 2013, he signed a short-term contract with Irish rugby union giants, Leinster to play in the Pro12 in a three-month deal. Just 6 weeks out from the 2014 NRL season, Tuqiri signed with his third NRL club, the South Sydney Rabbitohs, on a one-year deal.\r\n"
+            },
+            {
+                "doc_id": 1082,
+                "name": "Motu Tony.txt",
+                "content": "Motu Iosefo Tony (born 29 May 1981) is a former New Zealand international rugby league footballer who played as a fullback in the 2000s and 2010s. He previously played in the NRL for the New Zealand Warriors and the Brisbane Broncos before playing in the Super League for the Castleford Tigers (Heritage \u2116 815), Hull F.C. (with whom he won the 2005 Challenge Cup) and the Wakefield Trinity Wildcats, and in the RFL Championship for Whitehaven.\r\n"
             }
         ]
     },
     {
-        "label": "2",
-        "size": 2,
+        "label": "Cluster: 3",
+        "size": 13,
         "documents": [
             {
-                "doc_id": 248,
-                "name": "Bruce Tree.txt",
-                "content": "The Bruce Tree was an oak tree that stood on the grounds of Strathleven House in Dunbartonshire, Scotland.  It is reputed to have been planted by Robert the Bruce and was between 700 and 1,000 years old when it fell from an arson attack in May 2004.  The timber from the tree was saved and used to form a replica of the Bruce's throne.\r\n"
+                "doc_id": 1675,
+                "name": "Suranga Sampath.txt",
+                "content": "Suranga Sampath is a Sri Lankan blind cricketer. He was part of the Sri Lankan team during the 2017 ICC World T20 for the Blind. In the 2017 Blind T20 World Cup, he was the top scorer throughout the tournament with an aggregate of 733 runs with an average of excess 150. He also scored 5 centuries during the tournament, the most by any player in a single Blind T20 World Cup series; thus becoming the only batsman to score 5 centuries in a single edition of a Blind T20 World Cup. He picked up 4 wickets during the tournament to be adjudged the man of the tournament.Suranga Sampath along with Ruwan Wasantha set the record for the highest ever partnership for any wicket in Blind T20I history as well as in Blind T20 World Cup history when they put on an unbeaten 334 runs for the first wicket in the 2017 Blind T20 World Cup. He was also named as a player in the dream team during the 2017 Blind T20 World Cup.Suranga Sampath was also named as the member of the Sri Lankan blind cricket team for the 2018 Blind Cricket World Cup. During the first match for Sri Lanka in the tournament against Australia he scored 130 which propelled the team score to 485/7 in 40 overs and played a key role in a massive victory by a margin of 303 runs.\r\n"
             },
             {
-                "doc_id": 248,
-                "name": "Bruce Tree.txt",
-                "content": "The Bruce Tree was an oak tree that stood on the grounds of Strathleven House in Dunbartonshire, Scotland.  It is reputed to have been planted by Robert the Bruce and was between 700 and 1,000 years old when it fell from an arson attack in May 2004.  The timber from the tree was saved and used to form a replica of the Bruce's throne.\r\n"
+                "doc_id": 475,
+                "name": "Eleanor Richardson.txt",
+                "content": "Eleanor Richardson (born 1 July 1986) is a Scottish female track cyclist, representing Great Britain and Scotland at international competitions. Richardson represented Scotland at the 2014 Commonwealth Games. She competed at the 2015 UCI London Track Cycling World Cup and the 2016 UEC European Track Championships in the 500m time trial event and team sprint event. A former 200m Scottish Schools National Champion in athletics, Eleanor won ten Scottish National titles in Track Cycling in the sprint disciplines before retiring from competitive sport.[3] Eleanor is a Clinical Specialist Physiotherapist with a BSc(Hons) in Physiotherapy and an MSc in Advanced Musculoskeletal Physiotherapy Practice.[3]\r\n"
+            },
+            {
+                "doc_id": 1892,
+                "name": "Web ranking.txt",
+                "content": "Web ranking may refer to:\r\n\r\nAlexa web ranking system\r\nCompete.com, web ranking analysis based on United States traffic\r\nGoogle PageRank, link analysis algorithm\r\nWebometrics Ranking of World Universities, Ranking Web of World Universities\r\n"
+            },
+            {
+                "doc_id": 425,
+                "name": "Doujiang.txt",
+                "content": "Doujiang (simplified Chinese: \u8c46\u6d46; traditional Chinese: \u8c46\u6f3f; pinyin: d\u00f2uji\u0101ng) is fresh soy milk in Chinese cuisine. It can be served hot or cool, sweet or savoury. Sometimes, it is lightly curdled with vinegar. It is a common breakfast item served with youtiao.Chinese speakers differentiate doujiang from dounai (Chinese: \u8c46\u5976; pinyin: d\u00f2un\u01cei), which is the dairy-like soy milk that comes in packs and are used in items such as soy latte. Usually, doujiang is served in a bowl, and dounai is served in a cup.\r\n"
+            },
+            {
+                "doc_id": 708,
+                "name": "Johnny Leach.txt",
+                "content": "John Alfred Leach MBE (20 November 1922 \u2013 5 June 2014) was a British table tennis player, coach, and author. He began competing at a relatively old age, 17, before serving in World War II.  During the war, he greatly elevated his game and, in 1946, achieved a world ranking.  In 1949, Leach became Great Britain's second World Champion singles player.  After winning the title, he achieved widespread fame within the United Kingdom, appearing on television and writing for News of the World.  Two years later, Leach added a second singles title.  In 1953, he was part of the team that won Great Britain's first, and as of 2014 only, team World Championship.  He also won 13 bronze and silver World championship medals between 1947 and 1955.  As of 2014, Leach is just one of 11 players from any country to win two singles championships.\r\nAfter Leach retired in 1965, he remained active in the sport.  He was England's national coach for eight years and served as president of the English Table Tennis Association for more than 20 years.  He continued to write a column for News of the World for twenty years and published several books on table tennis.  He also worked as a commentator for the BBC and ITV during table tennis broadcasts.  Leach bought a table tennis manufacture and started a talent search agency.  In 1966, he was named a Member of the Order of the British Empire.  He was inducted into the International Table Tennis Federation Hall of Fame in 1997.\r\n"
+            },
+            {
+                "doc_id": 748,
+                "name": "Kamran Ghasempour.txt",
+                "content": "Kamran Ghasempour (Persian: \u06a9\u0627\u0645\u0631\u0627\u0646 \u0642\u0627\u0633\u0645\u067e\u0648\u0631, born 16 Dec 1996) is an Iranian freestyle wrestler who competes at 92 kilograms, where he is the reigning World Champion. He is also a two-time Asian Continental champion and a two-time World U23 Champion at 86 kilograms.\r\n"
+            },
+            {
+                "doc_id": 1607,
+                "name": "SU-100.txt",
+                "content": "The SU-100 (Samokhodnaya Ustanovka 100) was a Soviet tank destroyer armed with the D-10S 100 mm anti-tank gun in a casemate superstructure. It was used extensively during the last year of World War II and saw service for many years afterwards with the armies of Soviet allies around the world.\r\n"
+            },
+            {
+                "doc_id": 518,
+                "name": "Flash of Two Worlds.txt",
+                "content": "\"Flash of Two Worlds!\" is a landmark comic book story that was published in The Flash #123 (Sept. 1961). It introduces Earth-Two, and more generally the concept of the multiverse, to DC Comics. The story was written by Gardner Fox under the editorial guidance of Julius Schwartz (whose subsequent autobiography was titled Man of Two Worlds), and illustrated by Carmine Infantino. In 2009, DC Comics released a new digitally remastered graphic novel collection, DC Comics Classics Library: The Flash of Two Worlds. It features the classic flagship story and other subsequent pre-Crisis Flash material.\r\n"
+            },
+            {
+                "doc_id": 180,
+                "name": "At the Speed of Stillness.txt",
+                "content": "At the Speed of Stillness is an orchestral composition in one movement by the British composer Charlotte Bray.  The work was commissioned by The Proms for the conductor Sir Mark Elder and the Aldeburgh World Orchestra.  It was first performed July 29, 2012 at the Proms by the Aldeburgh World Orchestra under Sir Elder.  The piece is dedicated to the British composer Mark-Anthony Turnage.\r\n"
+            },
+            {
+                "doc_id": 630,
+                "name": "IKF World Korfball Ranking.txt",
+                "content": "The IKF World Korfball Ranking is the ranking for national korfball teams, done by the International Korfball Federation.\r\n"
+            },
+            {
+                "doc_id": 1463,
+                "name": "Rishi Puri.txt",
+                "content": "Rishi Puri is an Indian Sudoku solver. He is a two time Indian National Sudoku Champion. He was part of the top three from India along with Rohan Rao and Prasanna Seshadri at the national championships and the World Sudoku Championships. Rishi won the Indian Sudoku Championships in 2014 and 2015. He also won the Times Sudoku Championship in 2013.Rishi has also won various international Sudoku competitions. He was twice runners up at the Brand's international Sudoku Competition held at Bangkok, Thailand in 2011 and 2012. Rishi also won the Times UK National Sudoku Championship in 2012.\r\nRishi was the first Indian to qualify for the World Puzzle Federation's Sudoku Grand Prix by finishing in the top 10 across the world where he finished 9th, in 2014. In 2015 at Sofia, Bulgaria, Rishi improved his standing at the Grand Prix by finishing at a career best rank of 7th. 2015 World Sudoku Championship was also the last one attended by Rishi, post which he retired.\r\n"
+            },
+            {
+                "doc_id": 311,
+                "name": "Cole Palen.txt",
+                "content": "Cole Palen (December 28, 1925 \u2013 December 8, 1993) was the founder of the Old Rhinebeck Aerodrome, a living museum of vintage aircraft from 1900-1937 located in Red Hook, New York. Palen's aerodrome boasts one of the finest collections of antique aircraft in the world, including an original Bleriot XI (civil registration N60094), the oldest flying aircraft in the United States and the second oldest in the world.\r\n"
+            },
+            {
+                "doc_id": 962,
+                "name": "Michelle Hamer (author).txt",
+                "content": "Michelle Hamer is an Australian author and journalist. She is the author of twenty books published throughout the world. Hamer is a regular contributor to The Age newspaper in Melbourne and was previously an editor at the paper.\r\n"
             }
         ]
     },
     {
-        "label": "3",
-        "size": 4,
+        "label": "Cluster: 4",
+        "size": 9,
         "documents": [
             {
-                "doc_id": 25,
-                "name": "Abdullah Azzam Brigades.txt",
-                "content": "The Abdullah Azzam Brigades (Arabic: \u0643\u062a\u0627\u0626\u0628 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0639\u0632\u0627\u0645), or al-Qaeda in Lebanon, is a Sunni Islamist militant group, and al-Qaeda's branch in Lebanon. The group, which began operating in 2009, was founded by Saudi Saleh Al-Qaraawi and has networks in various countries, mainly in Egypt, Iraq, Syria, Jordan, the Gaza Strip and Lebanon.\r\nIt is named after the late Abdullah Yusuf Azzam, a Palestinian from Jordan and a well-known preacher and organizer who was among the first Arabs to volunteer to join the Afghan jihad against the forces of the then-Soviet Union in Afghanistan in the 1980s. Some other nonrelated terrorist organizations have been known to use the name \"Abdullah Azzam Brigades\" as a \"name of convenience\" for their operations.\r\nAfter grave injuries Al-Qaraawi received as a result of a drone attack in Pakistan, and his eventual capture upon his return to Saudi Arabia by Saudi authorities, the leadership of the Abdullah Azzam Brigades was assumed by Majid al-Majid, a Saudi affiliated with Fatah al-Islam and al-Qaeda. Al-Majid was declared the leader and emir of the Abdullah Azzam Brigades in June 2012, until his capture by Lebanese authorities on December 27, 2013 and eventual death from kidney failure on January 4, 2014. Al-Majid was succeeded by Sirajuddin Zureiqat.\r\n\r\n"
+                "doc_id": 931,
+                "name": "Michelle Gisin.txt",
+                "content": "Michelle Gisin (German pronunciation: ['mi\u0161el g\u026az\u026an]; born 5 December 1993) is a Swiss World Cup alpine ski racer who competes in all disciplines. She became an Olympic gold medalist in the combined event at the 2018 Winter Olympics in Pyeongchang, Korea. Michelle is the younger sister of alpine ski racers Marc and Dominique Gisin.\r\n"
             },
             {
-                "doc_id": 11,
-                "name": "Abdullah Almalki.txt",
-                "content": "Abdullah Almalki (born 1971) is a Canadian engineer who was imprisoned and tortured for two years in a Syrian jail after Canadian officials falsely indicated to the Syrian authorities and other countries that he was a terrorist threat.\r\nAlmalki has since returned to Canada, where he lives with his wife and five children.\r\nIn March 2017, the Canadian government issued an official apology to Almalki and his family.\r\nOn October 21, 2008 the Commission of Inquiry Into The Action Of Canadian Officials In Relation To Abdullah Almalki, Ahmad Abou-Elmaati And Muayyed Nureddin, released its report which cleared Almalki of any wrong doing and found that the Canadian government was complicit in his torture in Syria.  Following this report and its findings, in 2009 the Canadian Parliament passed a motion calling on the Canadian government to issue an apology to Almalki, compensate him, and correct the misinformation that it shared about him and his family nationally and internationally.\r\n"
+                "doc_id": 943,
+                "name": "Michelle Gorgone.txt",
+                "content": "Michelle Gorgone (born October 18, 1983) is an American snowboarder who has competed since 1999. Her best World Cup finish was second in the parallel slalom and giant slalom events four times between 2005 and 2008.\r\nAt the 2006 Winter Olympics in Turin, Gorgone finished 22nd in the parallel giant slalom event. Her best finish at the FIS Snowboard World Championships was 11th twice both at Whistler, British Columbia in 2005.\r\nIt was announced on 26 January 2010 that Gorgone made the US team for the 2010 Winter Olympics.\r\n\r\n"
             },
             {
-                "doc_id": 25,
-                "name": "Abdullah Azzam Brigades.txt",
-                "content": "The Abdullah Azzam Brigades (Arabic: \u0643\u062a\u0627\u0626\u0628 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0639\u0632\u0627\u0645), or al-Qaeda in Lebanon, is a Sunni Islamist militant group, and al-Qaeda's branch in Lebanon. The group, which began operating in 2009, was founded by Saudi Saleh Al-Qaraawi and has networks in various countries, mainly in Egypt, Iraq, Syria, Jordan, the Gaza Strip and Lebanon.\r\nIt is named after the late Abdullah Yusuf Azzam, a Palestinian from Jordan and a well-known preacher and organizer who was among the first Arabs to volunteer to join the Afghan jihad against the forces of the then-Soviet Union in Afghanistan in the 1980s. Some other nonrelated terrorist organizations have been known to use the name \"Abdullah Azzam Brigades\" as a \"name of convenience\" for their operations.\r\nAfter grave injuries Al-Qaraawi received as a result of a drone attack in Pakistan, and his eventual capture upon his return to Saudi Arabia by Saudi authorities, the leadership of the Abdullah Azzam Brigades was assumed by Majid al-Majid, a Saudi affiliated with Fatah al-Islam and al-Qaeda. Al-Majid was declared the leader and emir of the Abdullah Azzam Brigades in June 2012, until his capture by Lebanese authorities on December 27, 2013 and eventual death from kidney failure on January 4, 2014. Al-Majid was succeeded by Sirajuddin Zureiqat.\r\n\r\n"
+                "doc_id": 403,
+                "name": "Debora Menicucci.txt",
+                "content": "Debora Sacha Menicucci Anzola (born May 2, 1991 in Caracas) is a Venezuelan actress, model, fashion designer and beauty pageant titleholder who won the Miss Venezuela World 2014 title. She represented Venezuela in Miss World 2014, in London (England), on December 14, 2014.Menicucci was crowned Miss Venezuela World 2014 during the second edition of Miss Venezuela World pageant, held on August 2, 2014 in Caracas. She was crowned by the outgoing titleholder Karen Soto.\r\nDebora previously competed in Miss Venezuela 2013, when she represented Amazonas state. She won the Best Catwalk and Miss Attitude awards.\r\n"
             },
             {
-                "doc_id": 11,
-                "name": "Abdullah Almalki.txt",
-                "content": "Abdullah Almalki (born 1971) is a Canadian engineer who was imprisoned and tortured for two years in a Syrian jail after Canadian officials falsely indicated to the Syrian authorities and other countries that he was a terrorist threat.\r\nAlmalki has since returned to Canada, where he lives with his wife and five children.\r\nIn March 2017, the Canadian government issued an official apology to Almalki and his family.\r\nOn October 21, 2008 the Commission of Inquiry Into The Action Of Canadian Officials In Relation To Abdullah Almalki, Ahmad Abou-Elmaati And Muayyed Nureddin, released its report which cleared Almalki of any wrong doing and found that the Canadian government was complicit in his torture in Syria.  Following this report and its findings, in 2009 the Canadian Parliament passed a motion calling on the Canadian government to issue an apology to Almalki, compensate him, and correct the misinformation that it shared about him and his family nationally and internationally.\r\n"
+                "doc_id": 956,
+                "name": "Michelle Guly\u00e1s.txt",
+                "content": "Michelle Guly\u00e1s (born 24 October 2000) is a Hungarian modern pentathlete.\r\nShe participated at the 2018 World Modern Pentathlon Championships, winning a silver medal in the mixed relay.At the 2021 World Modern Pentathlon Championships, she won two medals, one bronze in the individual, and one silver in the team competition.\r\n"
+            },
+            {
+                "doc_id": 165,
+                "name": "Argentina at the 2009 World Championships in Athletics.txt",
+                "content": "Argentina fielded six competitors at the 2009 World Championships in Athletics in Berlin.\r\n\r\n"
+            },
+            {
+                "doc_id": 762,
+                "name": "Kirui.txt",
+                "content": "Kirui is a surname of Kalenjin origin that may refer to:\r\n\r\nAbel Kirui (born 1982), Kenyan marathon runner and two-time world champion\r\nCatherine Kirui (born 1976), Kenyan long-distance runner\r\nDominic Kirui (born 1967), Kenyan cross country runner and 1993 World runner-up\r\nEliud Kirui (born 1975), Kenyan cross country runner\r\nGeoffrey Kirui (born 1993), Kenyan long-distance runner\r\nIsmael Kirui (born 1975), Kenyan 5000 metres runner and two-time world champion\r\nPaul Kirui (born 1980), Kenyan road runner and 2004 World Half Marathon champion\r\nPeter Cheruiyot Kirui (born 1988), Kenyan marathon runner\r\nSilas Kirui (born 1981), Kenyan long-distance track runner competing for Bahrain as Hasan Mahboob\r\n"
+            },
+            {
+                "doc_id": 952,
+                "name": "Michelle Gribi.txt",
+                "content": "Michelle Gribi (born September 29, 1992) is a Swiss curler. She is a 2014 World mixed doubles champion.\r\n"
+            },
+            {
+                "doc_id": 1126,
+                "name": "Olesya Zabara.txt",
+                "content": "Olesya Aleksandrovna Zabara  (n\u00e9e Bufalova) (Russian: \u041e\u043b\u0435\u0441\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430 \u0417\u0430\u0431\u0430\u0440\u0430; born 6 October 1982) is a Russian triple jumper.\r\nShe finished fifth at the 2006 European Athletics Championships and second (14.50 metres, indoor personal best) at the 2007 European Indoor Championships. She finished tenth at the 2007 World Championships.\r\nIn 2008, she improved her personal indoor best to 14.54 metres in Tula. She finished seventh at the 2008 World Indoor Championships.\r\n"
+            },
+            {
+                "doc_id": 114,
+                "name": "Agata Biernat.txt",
+                "content": "Agata Biernat (born 1989) is a Polish beauty pageant titleholder who won the Miss Polonia 2017. she represented Poland at the Miss World 2018 pageant in China, in December.\r\n"
             }
         ]
     },
     {
-        "label": "4",
-        "size": 2,
+        "label": "Cluster: 5",
+        "size": 17,
         "documents": [
             {
-                "doc_id": 1901,
-                "name": "Web skimming.txt",
-                "content": "Web skimming, formjacking or a magecart attack is an attack where the attacker injects malicious code into a website and extracts data from an HTML form that the user has filled in. That data is then submitted to a server under control of the attacker.\r\n"
+                "doc_id": 1448,
+                "name": "Rishat Shafikov.txt",
+                "content": "Rishat Rimzovich Shafikov (Russian: \u0420\u0438\u0448\u0430\u0442 \u0420\u0438\u043c\u0437\u043e\u0432\u0438\u0447 \u0428\u0430\u0444\u0438\u043a\u043e\u0432; born 23 January 1970) is a retired Russian race walker.\r\nHe was born in Chelyabinsk. He won a bronze medal at the 1989 European Junior Championships. His best senior competition was at the 1996 Olympic Games, when he finished fifth in the |20 km race. He also finished seventh at the 1997 World Race Walking Cup, and placed lowly at the 1995 World Race Walking Cup (105th) and the 1999 World Race Walking Cup (68th).\r\n"
             },
             {
-                "doc_id": 1901,
-                "name": "Web skimming.txt",
-                "content": "Web skimming, formjacking or a magecart attack is an attack where the attacker injects malicious code into a website and extracts data from an HTML form that the user has filled in. That data is then submitted to a server under control of the attacker.\r\n"
-            }
-        ]
-    },
-    {
-        "label": "5",
-        "size": 2,
-        "documents": [
-            {
-                "doc_id": 231,
-                "name": "Blistered pyrgomorph.txt",
-                "content": "The blistered pyrgomorph (Monistria pustulifera) is a species of wingless grasshopper of the family Pyrgomorphidae, endemic to Australia.\r\nThe species is most commonly found on desert fuchsia plants of the genus Eremophila, in particular Eremophila gilesii. It is also known to attack garden plants such as Buddleja, dahlias, honeysuckle and privet.\r\n"
+                "doc_id": 937,
+                "name": "Michelle Gonz\u00e1lez.txt",
+                "content": "Michelle Gonz\u00e1lez (born 3 August 1989) is a Puerto Rican basketball player for Monta\u00f1eras de Morovis and the Puerto Rican national team.She participated at the 2018 FIBA Women's Basketball World Cup.\r\n"
             },
             {
-                "doc_id": 231,
-                "name": "Blistered pyrgomorph.txt",
-                "content": "The blistered pyrgomorph (Monistria pustulifera) is a species of wingless grasshopper of the family Pyrgomorphidae, endemic to Australia.\r\nThe species is most commonly found on desert fuchsia plants of the genus Eremophila, in particular Eremophila gilesii. It is also known to attack garden plants such as Buddleja, dahlias, honeysuckle and privet.\r\n"
-            }
-        ]
-    },
-    {
-        "label": "6",
-        "size": 2,
-        "documents": [
-            {
-                "doc_id": 51,
-                "name": "Addicted to Bad Ideas.txt",
-                "content": "Addicted to Bad Ideas is the fifth album by The World/Inferno Friendship Society, and their second for Chunksaah Records. Subtitled \"Peter Lorre's Twentieth Century\", the release is a concept album inspired by the life and films of actor Peter Lorre.\r\nLead singer Jack Terricloth describes Lorre as \"a strangely charismatic, extremely creepy person, which I think most punk rockers can identify with ... It\u2019s the lure of the other. He\u2019s the underdog, the outsider.\"  Many of the album's lyrics are taken directly from movie dialogues, notable Lorre quotes, and from the biography The Lost One: A Life of Peter Lorre by Stephen D. Youngkin. The track title, \"Everybody Comes to Rick's\" is a reference to \"Rick's Caf\u00e9 Am\u00e9ricain\" from the film Casablanca. In addition, the album's cover art is an homage to Lorre's renowned film M.\r\nThis album was developed into a dramatic multimedia production directed by Jay Scheib.  In 2009 World Inferno performed this work at festivals such as Public Theater's Under the Radar Festival, Philadelphia's Live Arts Festival, Montclair State University's Peak Performances series, and South Carolina's Spoleto Festival USA.  Jack Terricloth commented, \"the producer asked me if we were ever going to pay him back. We said 'No!'\"The songs \"Peter Lorre\" and \"Heart Attack '64\" are reworked versions of tracks from Just the Best Party, and \"Ich erinnere mich an die Weimarer Republik\" is reworked from East Coast Super Sound Punk of Today.\r\n"
+                "doc_id": 552,
+                "name": "George McCabe.txt",
+                "content": "George McCabe (born 13 March 1922, Sheffield, Yorkshire; died January 2001) was an English association football referee, who officiated at the 1966 World Cup and in an FA Cup Final. He became a Football League referee in 1954 and an international referee in 1960. Throughout his league career he sent off only three players. Outside football he was the director of a Sheffield engineering company.\r\n"
             },
             {
-                "doc_id": 51,
-                "name": "Addicted to Bad Ideas.txt",
-                "content": "Addicted to Bad Ideas is the fifth album by The World/Inferno Friendship Society, and their second for Chunksaah Records. Subtitled \"Peter Lorre's Twentieth Century\", the release is a concept album inspired by the life and films of actor Peter Lorre.\r\nLead singer Jack Terricloth describes Lorre as \"a strangely charismatic, extremely creepy person, which I think most punk rockers can identify with ... It\u2019s the lure of the other. He\u2019s the underdog, the outsider.\"  Many of the album's lyrics are taken directly from movie dialogues, notable Lorre quotes, and from the biography The Lost One: A Life of Peter Lorre by Stephen D. Youngkin. The track title, \"Everybody Comes to Rick's\" is a reference to \"Rick's Caf\u00e9 Am\u00e9ricain\" from the film Casablanca. In addition, the album's cover art is an homage to Lorre's renowned film M.\r\nThis album was developed into a dramatic multimedia production directed by Jay Scheib.  In 2009 World Inferno performed this work at festivals such as Public Theater's Under the Radar Festival, Philadelphia's Live Arts Festival, Montclair State University's Peak Performances series, and South Carolina's Spoleto Festival USA.  Jack Terricloth commented, \"the producer asked me if we were ever going to pay him back. We said 'No!'\"The songs \"Peter Lorre\" and \"Heart Attack '64\" are reworked versions of tracks from Just the Best Party, and \"Ich erinnere mich an die Weimarer Republik\" is reworked from East Coast Super Sound Punk of Today.\r\n"
+                "doc_id": 175,
+                "name": "Artturi Lehkonen.txt",
+                "content": "Artturi Lehkonen (born 4 July 1995) is a Finnish professional ice hockey player for the Colorado Avalanche of the National Hockey League (NHL). Lehkonen was selected by the Montreal Canadiens in the second round (55th overall) of the 2013 NHL Entry Draft, where he spent the first six seasons of his NHL career. Known as a defensively-minded forward, Lehkonen famously scored series-winning overtime goals in two consecutive Stanley Cup semi-finals against the Vegas Golden Knights (2021) and Edmonton Oilers (2022). He won the Stanley Cup with the Avalanche in 2022, scoring the Stanley Cup-clinching goal in game six.\r\nInternationally, Lehkonen has competed for the Finnish men's national team, winning medals at the U18 and U20 world championships.\r\n"
+            },
+            {
+                "doc_id": 35,
+                "name": "Abdullah Balideh.txt",
+                "content": "Abdullah Dor Mohammad Balideh Baloushi (born 14 February 1970) is a Qatari football referee who has been a full international referee for FIFA.\r\nBalideh became a FIFA referee in 2005. He served as a referee in the 2010 and 2014 FIFA World Cup qualifiers, as well as the Pan Arab Games.\r\n"
+            },
+            {
+                "doc_id": 238,
+                "name": "Bob Storey.txt",
+                "content": "Bob Storey is a former offensive and defensive back, and kick returner, who played four seasons in the Canadian Football League, winning 2 Grey Cups. He played 2 seasons and 28 games for the Hamilton Tiger-Cats, winning a Cup in 1967, and 2 seasons and 27 games for the Montreal Alouettes, winning another cup in 1970.\r\nHis father was Red Storey, famed Canadian football player (and Grey Cup champion) and sportsman.\r\n"
+            },
+            {
+                "doc_id": 584,
+                "name": "Gustavo Jorge.txt",
+                "content": "Gustavo Mart\u00edn Jorge (born Lomas de Zamora, 24 October 1971) is a former Argentine rugby union player and a current coach. He played as a wing.\r\nHe played for Club Pucar\u00e1 and Club Atletico San Isidro in the Nacional de Clubes in Argentina. He returned to Club Pucar\u00e1 where he finished his player career in 2007/08.Jorge had 23 caps for Argentina, since his debut, at the 103-9 win over Brazil, at 8 October 1989, in Montevideo, for the South American Rugby Championship, when he was only 17 years old, making him the youngest ever player for the \"Pumas\". He scored 6 tries in that game. He scored 24 tries, 111 points on aggregate during his international career. He was called for the 1991 Rugby World Cup but he never played. His last game was at the 16-11 win over the United States, at 20 June 1994, in Buenos Aires, for the 1995 Rugby World Cup qualifyings. He was only 22 years old but did not play again for the \"Pumas\".\r\nHe has been a coach for the youth categories at Club Pucar\u00e1 since his retirement.\r\n"
+            },
+            {
+                "doc_id": 363,
+                "name": "Crissiumal.txt",
+                "content": "Crissiumal is a municipality in the state of Rio Grande do Sul, Brazil, with a population of 13,357 inhabitants (2020 - IBGE). It has a fluvial border with Argentina along the Uruguay River.\r\nIn sports, Crissiumal is known as \"the land of goalkeepers\", because it was the home of several goalkeepers, the best of them being Taffarel, who played in the Brazilian soccer team in the 1994 FIFA World Cup, in Italy.\r\nThe economy of Crissiumal is based on small rural properties. Crissiumal is one of the largest Brazilian milk producers, with a daily production of about 70,000 litres (18,000 US gal; 15,000 imp gal) of milk.\r\nThe municipality would be partially flooded by the proposed Panamb\u00ed Dam.\r\n\r\n"
+            },
+            {
+                "doc_id": 1496,
+                "name": "Russian Premier League Cup.txt",
+                "content": "The Russian Premier League Cup was a football competition organized by Russian Premier League. This was a knockout competition for 16 teams of the Premier League. All ties, including the final, were two-legged. The winners of the Cup did not get any special bonuses (such as the participation the UEFA Cup), and the matches were played on the days reserved for national team fixtures. These two factors prevented most clubs from fielding their strongest teams, and matches were played by mixed or reserve teams. Consequently, the competition did not gain much popularity, and the first edition of 2003 became the last. FC Zenit Saint Petersburg won the only tournament, beating FC Chernomorets Novorossiysk in the final 5\u20132 on aggregate.\r\n"
+            },
+            {
+                "doc_id": 1749,
+                "name": "Trochita.txt",
+                "content": "Trochita is a genus of sea snails, marine gastropod mollusks in the family Calyptraeidae, the slipper snails or slipper limpets, cup-and-saucer snails, and Chinese hat snails.\r\n"
+            },
+            {
+                "doc_id": 1162,
+                "name": "Oriel Park.txt",
+                "content": "Oriel Park is a UEFA Category 2 football stadium located on the Carrickmacross Road in Dundalk, Ireland. The stadium is the home ground of Dundalk Football Club and is owned and operated by the club on land that has been leased from the Casey family since the mid 1930s.\r\nThe ground has a capacity of 3,100 for European matches (i.e. 3,100 seats) and 4,500 for domestic games (i.e. with the remainder standing). Oriel Park's attendance record is an estimated 18,000, set in 1982 for Dundalk's European Cup Winners' Cup second round tie against Tottenham Hotspur F.C.\r\n"
+            },
+            {
+                "doc_id": 1059,
+                "name": "Motu Hafoka.txt",
+                "content": "Motu Hafoka (13 March 1987 \u2013 30 June 2012) was a Samoan footballer who played as a goalkeeper. He represented Samoa in the 2012 OFC Nations Cup and in the 2007 OFC U-20 Championship.He committed suicide by hanging himself from a tree in his family's back yard on Saturday, 30 June 2012.  It is believed that \"differences with his family\" were the cause of the suicide.\r\n"
+            },
+            {
+                "doc_id": 396,
+                "name": "David Montoya.txt",
+                "content": "David Fernando Montoya V\u00e9lez (born February 14, 1978) is a Colombian former professional footballer who played as a midfielder.\r\nIn the 2003 Copa Libertadores, Montoya scored 4 goals, most notably the one he scored to give Independiente Medell\u00edn the victory against Boca Juniors.\r\nIn 2010, he transferred to Venezuelan club Deportivo Lara, and retired after the 2010\u201311 Venezuelan Primera Divisi\u00f3n season ended.\r\nMontoya made four appearances for Colombia at the 2003 Gold Cup.\r\n\r\n"
+            },
+            {
+                "doc_id": 323,
+                "name": "Cotton.txt",
+                "content": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. The fiber is almost pure cellulose, and can contain minor percentages of waxes, fats, pectins, and water. Under natural conditions, the cotton bolls will increase the dispersal of the seeds.\r\nThe plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, Egypt and India. The greatest diversity of wild cotton species is found in Mexico, followed by Australia and Africa. Cotton was independently domesticated in the Old and New Worlds.\r\nThe fiber is most often spun into yarn or thread and used to make a soft, breathable, and durable textile. The use of cotton for fabric is known to date to prehistoric times; fragments of cotton fabric dated to the fifth millennium BC have been found in the Indus Valley civilization, as well as fabric remnants dated back to 4200 BC in Peru.\r\nAlthough cultivated since antiquity, it was the invention of the cotton gin that lowered the cost of production that led to its widespread use, and it is the most widely used natural fiber cloth in clothing today.\r\nCurrent estimates for world production are about 25 million tonnes or 110 million bales annually, accounting for 2.5% of the world's arable land. India is the world's largest producer of cotton. The United States has been the largest exporter for many years.\r\n"
+            },
+            {
+                "doc_id": 1486,
+                "name": "Roy Aitken.txt",
+                "content": "Robert Sime \"Roy\" Aitken (born 24 November 1958) is a Scottish former football player and manager. He made over 480 league appearances for Celtic, and later played for Newcastle United, St Mirren and Aberdeen. Aitken also made 57 international appearances for Scotland. His playing position was either in midfield or defence.\r\nAitken had become assistant manager at Aberdeen towards the end of his playing career, and was appointed their manager in February 1995. He led the Dons to a Scottish League Cup win in 1995\u201396, but was sacked in November 1997. He has since coached several clubs, including Leeds United and Aston Villa.\r\n\r\n"
+            },
+            {
+                "doc_id": 138,
+                "name": "Amal Hamrouni.txt",
+                "content": "Amal Hamrouni (born 16 June 1995) is a Tunisian handball player for ASF Sfax and the Tunisian national team.She participated at the 2015 World Women's Handball Championship.\r\n"
+            },
+            {
+                "doc_id": 134,
+                "name": "Allaedine Berrached.txt",
+                "content": "Allaedine Berrached (born 31 January 1994) is a Qatari handball player for Al-Duhail and the Qatari national team.He represented Qatar at the 2019 World Men's Handball Championship.\r\n"
             }
         ]
     }

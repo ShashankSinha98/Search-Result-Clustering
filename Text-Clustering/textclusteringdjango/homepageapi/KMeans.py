@@ -65,7 +65,7 @@ def queryCluster(query: str, no_of_results: int = 50, K: int = 7, save_result: b
         docs = []
         fil_df = df[df["cluster"] == cluster_i]
         cluster_size = fil_df.shape[0]
-        cluster_label = str(cluster_i)
+        cluster_label = str(cluster_i+1)
 
         # iterate through docs belonging to cluster i
         for index in fil_df.index:
@@ -79,7 +79,7 @@ def queryCluster(query: str, no_of_results: int = 50, K: int = 7, save_result: b
             docs.append(doc_dict)
 
         res = {
-            "label": cluster_label,
+            "label": "Cluster: "+cluster_label,
             "size": cluster_size,
             "documents": docs
         }

@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-sandbox-9.8.0.jar"/>
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/commons-math3-3.6.1.jar"/>
 	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/Lucene/lucene-3.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Code/OvGU/Information Retrieval/Search Result Clustering/Preprocessing/external jars/jwnl14-rc2/jwnl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

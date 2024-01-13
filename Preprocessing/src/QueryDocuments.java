@@ -34,14 +34,17 @@ public class QueryDocuments {
 	private List<Doc> retrievedDocs;
 	
 	public QueryDocuments() {
-		retrievedDocs = new ArrayList<>();
 		preprocessedDocuments = new ArrayList<>();
 		idDocMap = new HashMap<>();
 		gson = new Gson();
 		
-		List<Doc> docs = ReadDocuments.getDocuments();
+		// Read all txt documents
+		List<Doc> docs = ReadDocuments.getDummyDocuments();
+		//List<Doc> docs = ReadDocuments.getDocuments();
 		for(Doc doc: docs) {
 			idDocMap.put(doc.getDocId(), doc);
+			
+			// Preprocess documents
 			List<String> tokens = DocumentPreprocessor.preprocess(doc.getContent());
 			if(tokens==null) {
 				System.out.println("Null Tokens, something went wrong. Aborting!");
@@ -55,15 +58,19 @@ public class QueryDocuments {
 
 	public String query(String query, int expectedResultSize) throws IOException, ParseException {
 		System.out.println("Received query request: "+query);
-		
+		retrievedDocs = new ArrayList<>();
 		// At max RELEVANT_DOCS_LIMIT no of docs will be retrieved 
 		// irrespective of user demand
 		if(expectedResultSize > Constants.RELEVANT_DOCS_LIMIT) {
 			expectedResultSize = Constants.RELEVANT_DOCS_LIMIT;
 		}
 		
+		// Query preprocessing
+		List<String> queryTokens = DocumentPreprocessor.preprocess(query);
+		String preprocessedQuery = Utils.concat(queryTokens, " ");
+		
 		Directory directory = createIndex(preprocessedDocuments);
-		Query q = parseQuery(query, new StandardAnalyzer());
+		Query q = parseQuery(preprocessedQuery, new StandardAnalyzer());
 		TopDocs topDocs = searchIndex(directory, q, expectedResultSize);
 		DirectoryReader directoryReader = DirectoryReader.open(directory);
 	    IndexSearcher searcher = new IndexSearcher(directoryReader);
@@ -78,7 +85,7 @@ public class QueryDocuments {
 	}
 	
 	
-	
+	// Indexing documents
 	public static Directory createIndex(List<String> documents) {
 		try {
 		    Directory directory = new ByteBuffersDirectory();
@@ -103,13 +110,13 @@ public class QueryDocuments {
 		}
 	}
 	
-	
+	// Parsing query
 	public static Query parseQuery(String queryString, StandardAnalyzer analyzer) throws ParseException {
 	    QueryParser parser = new QueryParser("content", analyzer);
 	    return parser.parse(queryString);
 	}
 	
-	
+	// Fetching relevant documents
 	public static TopDocs searchIndex(Directory directory, Query query, int expectedResultSize) throws IOException {
 	    DirectoryReader directoryReader = DirectoryReader.open(directory);
 	    IndexSearcher searcher = new IndexSearcher(directoryReader);
