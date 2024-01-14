@@ -1,12 +1,47 @@
 # Search Result Clustering
 
-## What is Clustering?
-- Clustering is the process of dividing the entire data into groups (also known as clusters) based on the patterns in the data.
+## Authors
+- Shashank Sinha
+- Vikas Kale
+- Hrushikesh Ahire
+- Rohit Rakesh
 
-- In clustering, we do not have a target to predict. We look at the data, try to club similar observations, and form different groups. Hence it is an unsupervised learning problem.
+## Introduction
+The "Search Result Clustering" project implements a clustering algorithm to group data points based on similarity. This unsupervised machine-learning technique is applied to document clustering, a common task in data analysis and machine learning.
 
-## Document Clustering
+## Project Overview
+The goal is to create a visualization of clustered search results, showcasing the relationships and similarities between different results. It's applicable in scenarios requiring insights into document connections.
 
-- This is common application of clustering. Let’s say you have multiple documents and you need to cluster similar documents together. Clustering helps us group these documents such that similar documents are in the same clusters.
+## Technology Stack
+- **Programming Languages**: Python, Java
+- **Frameworks and Libraries**: Lucene (for Pre-processing), Django (Backend), React JS (Frontend), Python's Sklearn library (Machine Learning)
+- **Algorithms**: K-Means
 
-https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
+## Installation
+### Prerequisites
+- Python
+- Java
+- Django
+- React JS
+- Sklearn
+
+### Steps
+1. Clone the repository: git clone https://github.com/ShashankSinha98/Search-Result-Clustering
+2. Install Python and Java.
+3. Install Django for backend development and React JS for frontend development.
+4. Install Sklearn for machine learning tasks.
+5. Create a `requirements.txt` file and use it to install Python dependencies.
+
+## Usage
+1. Start the application:
+2. Navigate to the `Text-Clustering` folder, find `textclusteringdjango` and `textclusteringreact` folders to set up servers.
+3. Use the interface to input queries and specify the number of clusters.
+4. View the results which include a visual representation of the clusters and detailed information in a separate window.
+
+
+## Contributing
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit and push your changes.
+4. Open a pull request.
+
