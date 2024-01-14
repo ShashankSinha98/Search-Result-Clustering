@@ -26,7 +26,7 @@ The goal is to create a visualization of clustered search results, showcasing th
 - Sklearn
 
 ### Steps
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/ShashankSinha98/Search-Result-Clustering
 2. Install Python and Java.
 3. Install Django for backend development and React JS for frontend development.
 4. Install Sklearn for machine learning tasks.
@@ -46,12 +46,6 @@ The goal is to create a visualization of clustered search results, showcasing th
 3. Commit and push your changes.
 4. Open a pull request.
 
-## License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-
-## Acknowledgments
-- Mention any inspirations, code snippets, etc.
-- Acknowledge contributors and collaborators.
 
 *For screenshots and diagrams, use relative or absolute URLs to link the images.*
 
