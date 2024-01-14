@@ -38,7 +38,6 @@ The goal is to create a visualization of clustered search results, showcasing th
 3. Use the interface to input queries and specify the number of clusters.
 4. View the results which include a visual representation of the clusters and detailed information in a separate window.
 
-*Include screenshots or diagrams here.*
 
 ## Contributing
 1. Fork the repository.
@@ -46,9 +45,3 @@ The goal is to create a visualization of clustered search results, showcasing th
 3. Commit and push your changes.
 4. Open a pull request.
 
-
-*For screenshots and diagrams, use relative or absolute URLs to link the images.*
-
----
-
-*Note: Replace placeholders like `[repository URL]` and `[License Name]` with actual data from your project. Add screenshots and diagrams by uploading them to your repository or hosting them elsewhere and linking them.*
